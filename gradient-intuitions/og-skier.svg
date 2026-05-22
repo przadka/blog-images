@@ -3,7 +3,7 @@
 <rect x="0" y="0" width="1200" height="630" fill="#FFFFFF"/>
 <rect x="0" y="0" width="1200" height="630" fill="url(#contours-og)"/>
 
-<svg x="262" y="6" width="676" height="618" viewBox="248 150 200 188" preserveAspectRatio="xMidYMid meet">
+<svg x="200" y="15" width="800" height="600" viewBox="250 162 196 160" preserveAspectRatio="xMidYMid meet">
 <line x1="348.23" y1="20.00" x2="251.77" y2="380.00" stroke="#B3B3B3" stroke-width="1.1" stroke-dasharray="5 4"/>
 <path d="M268.00,184.18 L335.62,202.30 Q342.38,204.11 349.54,196.72" fill="none" stroke="#5B6E8F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M264.38,197.70 L332.00,215.82 Q338.76,217.63 345.92,210.24" fill="none" stroke="#5B6E8F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
