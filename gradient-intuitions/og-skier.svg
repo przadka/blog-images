@@ -3,13 +3,13 @@
 <rect x="0" y="0" width="1200" height="630" fill="#FFFFFF"/>
 <rect x="0" y="0" width="1200" height="630" fill="url(#contours-og)"/>
 
-<svg x="120" y="3" width="960" height="624" viewBox="258 167 184 150" preserveAspectRatio="xMidYMid meet">
+<svg x="110" y="28" width="980" height="590" viewBox="260 164 180 128" preserveAspectRatio="xMidYMid meet">
 <line x1="348.23" y1="20.00" x2="251.77" y2="380.00" stroke="#B3B3B3" stroke-width="1.1" stroke-dasharray="5 4"/>
 <path d="M268.00,184.18 L335.62,202.30 Q342.38,204.11 349.54,196.72" fill="none" stroke="#5B6E8F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M264.38,197.70 L332.00,215.82 Q338.76,217.63 345.92,210.24" fill="none" stroke="#5B6E8F" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 <line x1="300.00" y1="200.00" x2="304.53" y2="183.10" stroke="#1A1A1A" stroke-width="1.9" stroke-linecap="round"/>
 <circle cx="306.21" cy="176.82" r="7.5" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.9"/>
 <path d="M344.31,204.63 L436.08,229.21 M426.26,220.69 L436.08,229.21 L423.31,231.69" fill="none" stroke="#5B6E8F" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M300.00,200.00 L270.24,311.08 M278.76,301.27 L270.24,311.08 L267.76,298.32" fill="none" stroke="#E07A5F" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.00,200.00 L276.70,286.90 M285.22,277.09 L276.70,286.90 L274.22,274.14" fill="none" stroke="#E07A5F" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 </svg>
